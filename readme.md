@@ -203,8 +203,8 @@ TODO: Wood block
 50% complete
 
 ####The Base <from Sonic Adventure 2>
-60% complete
-TODO: percussion
+90% complete
+TODO: outro percussion
 
 ####What U Need <from Sonic Rush>
 **COMPLETE**
@@ -516,8 +516,8 @@ From Kirby Super Star Ultra
 **COMPLETE**
 From Super Mario Galaxy
 
-####Ball Rolling
-30% complete
+####Star Ball Rolling
+**COMPLETE**
 From Super Mario Galaxy
 
 ####Super Mario Galaxy
