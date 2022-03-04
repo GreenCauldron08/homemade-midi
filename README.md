@@ -1,17 +1,17 @@
-#Homemade MIDI
+# Homemade MIDI
 These are MIDI re-creations of existing music. I have no tools that automatically generate MIDI data from a sound file. I make these manually, by ear.
 I usually use Mixcraft to make these, so the GeneralUser soundfont is most likely to give a good listening experience, but I try to make these soundfont-agnostic.
 
-##Game Music
+## Game Music
 
-###Age of Empires 2
+### Age of Empires 2
 These are all based on the original version of the game.
 
-####Shamburger/I Will Beat on Your Behind
+#### Shamburger/I Will Beat on Your Behind
 95% complete
 TODO: Shamburger fade out
 
-####Drizzle
+#### Drizzle
 95% complete
 TODO: Reverse Cymbal
 
