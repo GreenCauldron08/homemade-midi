@@ -2,7 +2,7 @@
 These are MIDI re-creations of existing music. I have no tools that automatically generate MIDI data from a sound file. I make these manually, by ear.
 I usually use Mixcraft to make these, so the [GeneralUser](http://www.schristiancollins.com/generaluser.php) soundfont is most likely to give a good listening experience, but I try to make these soundfont-agnostic.
 
-##Uncategorized Music
+## Uncategorized Music
 These are the ones that don't fit neatly into any subfolders.
 
 ### THINGAMAJIG
