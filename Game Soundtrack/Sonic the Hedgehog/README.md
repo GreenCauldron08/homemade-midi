@@ -224,3 +224,21 @@ Contains some original material.
 ### Sonic Sat AM
 Various pieces of music from Sonic Sat AM.
 Contains some original material.
+
+###White Bird <from He Is My Master>
+by It's a Beautiful Day.
+Contains some original material.
+
+### Unknown Demo 3 <possibly from Sonic the Hedgehog (1996 OVA)>
+
+### Ruin Wood Area (First Half) <from Tails' Sky Patrol>
+
+### Metal Island Area <from Tails' Sky Patrol>
+
+### Tails' House <from Tails Adventure>
+
+### Sonic Labyrinth Ending
+
+### Trap Tower <from SegaSonic the Hedgehog>
+
+### Chaos Emerald <from Sonic Spinball>
