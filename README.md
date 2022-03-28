@@ -328,3 +328,10 @@ by Carter Burwell, from the Hudsucker Proxy
 
 #### Norville's End
 by Carter Burwell, from the Hudsucker Proxy
+
+#### The Hula Hoop
+by Carter Burwell, from the Hudsucker Proxy
+I'm pretty sure this is really just a classical composition (or several), but I don't know which.
+
+#### Untitled Theme from The Hitchhiker's Guide to the Galaxy
+by Joby Talbot
