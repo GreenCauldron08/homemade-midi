@@ -274,6 +274,16 @@ by Robin Gibb
 #### Moonlight
 by Barry Gibb
 
+#### Anywheere I Hang My Hat is Home
+by Robin Gibb
+65% complete
+
+#### Love Just Goes
+by Robin Gibb
+
+#### C'est la Vie, Au Revoir
+by Robin Gibb
+
 ### Engineer06
 My 6th dump of simplified MIDI recreations
 
