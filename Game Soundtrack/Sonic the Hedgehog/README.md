@@ -242,3 +242,25 @@ Contains some original material.
 ### Trap Tower <from SegaSonic the Hedgehog>
 
 ### Chaos Emerald <from Sonic Spinball>
+
+### Crystal Egg Zone <from Sonic the Hedgehog 2 (Handheld)>
+
+### Intro <from Sonic Blast>
+
+### Continue Screen <from Sonic Blast>
+
+### Green Hill Zone <from Sonic Blast>
+
+### Spicy Sea <from Sonic Shuffle>
+
+### Dreamy Well <from Sonic Shuffle>
+
+### Wild Growth <from Sonic Shuffle>
+
+### Quick Advance <from Sonic Shuffle>
+
+### Prismatic Prison <from Sonic Shuffle>
+
+### Sonic Pinball Party Main Menu
+
+### Minigame 3 <from Sonic Pinball Party>
