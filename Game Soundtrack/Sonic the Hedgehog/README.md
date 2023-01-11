@@ -4,8 +4,7 @@
 35% complete
 
 ## Green Hill Zone <from Sonic Chronicles: The Lost Brotherhood>
-90% complete
-TODO: Wood block
+**COMPLETE**
 
 ## Minigame 3 <from Sonic Battle>
 **COMPLETE**
