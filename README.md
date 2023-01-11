@@ -199,6 +199,45 @@ Mostly original compositions. Exceptions include:
 * An original composition of mine that uses the title theme of Star Trek: Voyager
 * An untitled piece by George Bruns, from Disney's Robin Hood
 
+#### When Do I
+by the Bee Gees
+
+#### Wouldn't I Be Someone
+by the Bee Gees
+
+#### Words
+by the Bee Gees
+
+#### Man in the Middle
+by the Bee Gees
+
+#### Untitled
+from Pokémon
+
+#### The Great Mouse Detective
+by Henry Mancini
+
+#### Big Ben Chase
+by Henry Mancini, from the Great Mouse Detective
+
+#### Bad Idea
+by Lemon Demon
+
+#### The Celts
+by Enya
+
+#### My Life Has Been a Song
+by the Bee Gees
+
+#### Grandma's Song
+from Billy Elliot (the Musical)
+
+#### Geeks In Love
+by Lemon Demon
+
+#### Mobile
+by Avril Lavigne
+
 ### Engineer2
 My 4th dump of simplified MIDI recreations
 
