@@ -22,6 +22,112 @@ TODO: Improve bass
 **COMPLETE**
 From Mixcraft's song kits
 
+### Engineer_Old
+My 1st dump of simplified MIDI recreations. Everything is on one track.
+
+#### Merrily Merry Eyes
+by the Bee Gees
+
+#### All Around My Clock
+by the Bee Gees
+
+#### Yeti
+by BadLipReading
+
+#### Pirates of the Caribbean
+by Hans Zimmer (and maybe Klaus Badelt sometimes)
+Various musical themes from the Pirates of the Caribbean movie trilogy.
+
+#### Town1
+from RPG Maker VX Ace
+
+#### Oblivion
+by M83, from Oblivion (2013 Film)
+
+#### The Supreme Being
+from Time Bandits
+
+#### You and I
+by Barry Gibb
+
+#### The Room of Requirement
+by Nicholas Hooper, from Harry Potter and the Order of the Phoenix
+
+#### Remembering
+by the Bee Gees
+
+#### When Do I
+by the Bee Gees
+
+#### Major Rewrite/General Chunks
+by Stephen Rippy, from Age of Empires III
+
+#### Leisurely Brows
+by Stephen Rippy, from Age of Empires III
+
+#### Glorious Morning 2
+by Waterflame
+
+#### ...Where Credit Is Due
+by Stephen Rippy, from Age of Empires II: The Age of Kings
+
+#### Silver Inches
+by Enya
+
+#### Forever
+by the Bee Gees
+
+#### When the Swallows Fly
+by the Bee Gees
+
+#### Strong Star Warrior
+by Akira Miyagawa, from Hoshi no Kaabii
+
+#### Wild Child
+by Enya
+
+#### Terran Victory
+by somebody (possibly Neal Acree?), from StarCraft
+
+#### Tomorrow Tomorrow
+by the Bee Gees
+
+#### Pilgrim
+by Enya
+Contains some original material.
+
+#### Pilgrim
+by Enya
+Contains some original material.
+
+#### Dangle
+by Lee Nicklen
+
+#### The Mystery Meat Cutter of Twelfth and Forty-Third
+by two young ladies from the Vancouver Folk Music Festival 2015
+
+#### Sea of Smiling Faces
+by the Bee Gees
+
+#### I Can't Let You Go
+by the Bee Gees
+
+#### What Kind of Fool
+by Barbra Streisand and Barry Gibb
+
+#### Run to Me
+by the Bee Gees
+
+#### Team Rocket Forever
+from Pokémon
+
+#### Where the Streets Have No Name
+by U2
+
+#### World
+by the Bee Gees
+Contains some original material.
+
 ### Engineer
 My 3rd dump of simplified MIDI recreations. Includes material from my 1st dump, and some original compositions. Everything is on one track.
 
