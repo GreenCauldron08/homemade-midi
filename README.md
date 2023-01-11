@@ -322,7 +322,7 @@ Complexity: 3/3
 #### The Bucket
 By Dave Cowen
 Complexity: 3/3
-80% Complete
+**COMPLETE**
 
 #### Hell Prominence
 AKA "Melty Molten Galaxy" from Super Mario Galaxy
@@ -353,7 +353,6 @@ by Joby Talbot, from the Hitchhiker's Guide to the Galaxy
 
 #### Omega Man
 by the Bee Gees
-Complexity: None
 
 #### Breakout
 by the Bee Gees
@@ -421,7 +420,6 @@ by Barry Gibb
 
 #### Anywheere I Hang My Hat is Home
 by Robin Gibb
-80% complete
 
 #### Love Just Goes
 by Robin Gibb
