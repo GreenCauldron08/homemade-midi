@@ -7,6 +7,9 @@
 90% complete
 TODO: Wood block
 
+## Minigame 3 <from Sonic Battle>
+**COMPLETE**
+
 ## Strategy <from Sonic Adventure 2>
 50% complete
 
@@ -28,7 +31,7 @@ My dump of simplified Sonic MIDI recreations.
 
 ### Keys the Ruin (Pyramid Cave) <from Sonic Adventure 2>
 
-### Shut Up, Faker!  <from Sonic Adventure 2>
+### Shut Up, Faker! <from Sonic Adventure 2>
 
 ### Cannon's Core v2 (Deep Inside Of) <from Sonic Adventure 2>
 
@@ -229,7 +232,7 @@ Contains some original material.
 by It's a Beautiful Day.
 Contains some original material.
 
-### Unknown Demo 3 <possibly from Sonic the Hedgehog (1996 OVA)>
+### Unknown Demo 3 <from Sonic the Hedgehog (1996 OVA) Demo Reel>
 
 ### Ruin Wood Area (First Half) <from Tails' Sky Patrol>
 
@@ -264,3 +267,143 @@ Contains some original material.
 ### Sonic Pinball Party Main Menu
 
 ### Minigame 3 <from Sonic Pinball Party>
+
+### Black Doom <from Shadow the Hedgehog>
+
+### Green Hill Zone <from Sonic Chronicles: The Lost Brotherhood>
+
+### Main Theme of Sonic Chronicles: The Lost Brotherhood
+
+### Zoah Colony Zone <from Sonic Chronicles: The Lost Brotherhood>
+
+### Cutscene - Normal <from Sonic Rush Adventure>
+
+### Windmill Village Mode 4 <from Sonic Rush Adventure>
+
+### Opening Theme from the Adventures of Sonic the Hedgehog
+
+### Babylon Garden <from Sonic Riders: Zero Gravity>
+
+### Strategy (Slow Version) <from Sonic Adventure 2>
+
+### 34°N, 12°E (Mad Space) <from Sonic Adventure 2>
+
+### Sea Gate <from Sonic Heroes>
+
+### Tails' Lab <from Sonic Battle>
+
+### Chaos' Theme <from Sonic Battle>
+
+### Battle on the Death Egg <from Sonic Battle>
+
+### Holly Summit <from Sonic Battle>
+
+### Sneaky Bat <from Sonic Battle>
+
+### Sonic Battle Credits
+
+### Ending A (Alternate) <from Sonic Advance 3>
+
+### Blizzard of Coast <from Sonic Shuffle>
+Drums only.
+
+### Rave About Me <from Sonic Shuffle>
+Drums only.
+
+### Miss Conduct <from Sonic Shuffle>
+Drums only.
+
+### Battle of Bloom <from Sonic Shuffle>
+Drums only.
+
+### Meet Knuckles <from Sonic the Hedgehog: Triple Trouble>
+
+### Green Hills Zone <from Sonic the Hedgehog 2 (Handheld)>
+
+### Mecha Green Hill Zone <from Sonic Chaos>
+
+### All Hail Shadow <from Shadow the Hedgehog>
+
+### His World <from Sonic '06>
+
+### Mephiles' Whisper <from Sonic '06>
+
+### Sky Sanctuary Zone <from Sonic the Hedgehog 3 & Knuckles>
+Contains some original material.
+
+### Options <from Sonic the Hedgehog 2>
+
+### Metropolis Zone <from Sonic the Hedgehog 2>
+
+### Ending Theme <from Sonic the Hedgehog 2>
+
+### Staff Roll <from Sonic the Hedgehog Pocket Adventure>
+
+### Credits (Plus) <from Sonic Mega Collection Plus>
+
+### Staff Roll <from Dr. Robotnik's Mean Bean Machine>
+
+### Never Turn Back <from Shadow the Hedgehog>
+Piano intro only.
+
+### Endless Possibility <from Sonic Unleashed>
+
+### Circus Park <from Shadow the Hedgehog>
+
+### Steel Heart <from Knuckles' Chaotix>
+
+### Surprise <from Knuckles' Chaotix>
+
+### Pendulum <from Knuckles' Chaotix>
+
+### Kingdom Valley <from Sonic '06>
+
+### The White of Sky <from Sonic and the Secret Rings>
+
+### A New Day <from Sonic Rush>
+
+### High Flying Groove <from Sonic Riders>
+
+### Dr. Ivo Robotnik's Theme <from the Adventures of Sonic the Hedgehog>
+
+### Sonic Heroes
+
+### Select <from Sonic Heroes>
+
+### Diamond Dust Zone <from Sonic 3D Blast (Genesis)>
+
+### Green Grove Zone <from Sonic 3D Blast (Saturn)>
+
+### Bad Ending <from Sonic 3D Blast (Saturn)>
+
+### Sunset Hill - Act 1 <from Sonic Advance 3>
+
+### That's the Way I Like It <from Sonic Adventure 2>
+
+### Rumbling HWY <from Sonic Adventure 2>
+
+### Pumpkin Hill <from Sonic Adventure 2>
+Contains some original material.
+
+### Open Your Heart <from Sonic Adventure>
+
+### Calm After the Storm <from Sonic Adventure>
+
+### Super Sonic Racing <from Sonic R>
+Contains some original material.
+
+### Dark Gaia Appears <from Sonic Unleashed>
+
+### Super Sonic vs. Perfect Dark Gaia <from Sonic Unleashed>
+
+### The Last Scene <from Sonic Adventure 2>
+
+### Raisin' Me Up <from Sonic Rush>
+
+### All Over <from SegaSonic the Hedgehog>
+
+### We Can <from Sonic Heroes>
+Contains some original material.
+
+### Green Hill Zone <from Sonic the Hedgehog>
+Contains some original material.
