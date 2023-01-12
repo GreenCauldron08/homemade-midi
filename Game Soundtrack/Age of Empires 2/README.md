@@ -9,11 +9,9 @@ TODO: Shamburger fade out
 **COMPLETE**
 
 ## Machina Del Diablo
-50% complete
-TODO: Percussion
+85% complete
 TODO: Pitch Bend on the Bass
 TODO: Pitch Bend on the Koto
-TODO:
 
 ## T Station
 35% complete
