@@ -8,8 +8,7 @@ Several (perhaps all, someday?) Fairground organ tracks in one file. It's coming
 **COMPLETE**
 
 ## Modern style
-95% complete
-TODO: volume correction
+99% complete
 TODO: something to represent a filter effect
 
 ## Rock style 2
