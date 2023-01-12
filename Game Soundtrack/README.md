@@ -4,13 +4,13 @@
 15% complete
 From StarCraft: Brood War
 
-## Crabbe_Goyle <by Jeremy Soule, from Harry Potter>
+## Crabbe_Goyle
 85% complete
 Composed by Jeremy Soule
 From Harry Potter and the Philosopher's Stone (PC, 2001)
 
 ## Phoenix
-45% complete
+**COMPLETE**
 Composed by Jeremy Soule
 From Harry Potter and the Philosopher's Stone (PC, 2001)
 
