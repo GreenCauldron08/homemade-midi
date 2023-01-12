@@ -22,7 +22,7 @@
 75% complete
 
 ## I've Been Hurt
-15% complete
+70% complete
 
 ## Saw a New Morning
 5% complete
