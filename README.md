@@ -488,3 +488,18 @@ I'm pretty sure this is really just a classical composition (or several), but I 
 
 #### Untitled Theme from The Hitchhiker's Guide to the Galaxy
 by Joby Talbot
+
+#### Planet Factory Floor
+by Joby Talbot, from the Hitchhiker's Guide to the Galaxy
+
+#### Earth Mark II
+by Joby Talbot, from the Hitchhiker's Guide to the Galaxy
+
+#### Anything but Ordinary
+by Avril Lavigne
+
+#### Lemons Never Forget
+by the Bee Gees
+
+#### Untitled
+by Les Stroud, from Survivorman
