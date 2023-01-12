@@ -7,7 +7,7 @@
 15% complete
 
 ## Leisurely Brows
-85% complete
+90% complete
 
 ## Of Licious
 Coming soon...
