@@ -2,8 +2,7 @@
 These are all based on the original version of the game.
 
 ## Shamburger/I Will Beat on Your Behind
-95% complete
-TODO: Shamburger fade out
+**COMPLETE**
 
 ## Drizzle
 **COMPLETE**
