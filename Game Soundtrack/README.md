@@ -84,7 +84,7 @@ From The Simpsons: Hit & Run
 From The Simpsons: Hit & Run
 
 ## Super Monkey Ball Credits
-55% complete
+**COMPLETE**
 
 ## Professor Rowan's Laboratory
 **COMPLETE**
