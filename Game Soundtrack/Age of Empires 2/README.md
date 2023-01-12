@@ -6,8 +6,7 @@ These are all based on the original version of the game.
 TODO: Shamburger fade out
 
 ## Drizzle
-95% complete
-TODO: Reverse Cymbal
+**COMPLETE**
 
 ## Machina Del Diablo
 50% complete
