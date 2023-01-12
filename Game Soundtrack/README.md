@@ -60,7 +60,7 @@ Coming soon...
 This may have a more recognizable name I'm not aware of.
 
 ## Homer and Marge
-70% complete
+**COMPLETE**
 From The Simpsons: Hit & Run
 
 ## Blind Big Brother
