@@ -19,7 +19,7 @@ Coming soon...
 40% complete
 
 ## Major Rewrite/General Chunks
-40% complete
+45% complete
 
 ## Happy to You
 30% complete
