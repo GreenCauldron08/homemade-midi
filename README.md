@@ -352,9 +352,11 @@ by Joby Talbot, from the Hitchhiker's Guide to the Galaxy
 
 #### Omega Man
 by the Bee Gees
+I composed some harmonies and added them.
 
 #### Breakout
 by the Bee Gees
+I composed some harmonies and added them.
 
 #### Everything is How You See Me
 by Robin Gibb
@@ -379,6 +381,7 @@ Complexity: 2/2
 #### Cold Be My Days
 by Robin Gibb
 Complexity: 1/3
+I composed some harmonies and added them.
 
 #### It's Only Make Believe
 by Robin Gibb
@@ -419,6 +422,7 @@ by Barry Gibb
 
 #### Anywheere I Hang My Hat is Home
 by Robin Gibb
+I composed some harmonies and added them.
 
 #### Love Just Goes
 by Robin Gibb
