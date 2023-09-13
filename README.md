@@ -435,9 +435,11 @@ My 6th dump of simplified MIDI recreations
 
 #### Lovers and Friends
 by Ronan Keating
+I composed some harmonies and added them.
 
 #### Peace in My Mind
 by Barry Gibb
+I composed some harmonies and added them.
 
 #### Love Is Blind
 by the Bee Gees
@@ -447,6 +449,7 @@ by Barry Gibb
 
 #### Mind Over Matter
 by the Bee Gees
+I composed some harmonies and added them.
 
 #### Trash
 by Robin Gibb
@@ -462,15 +465,19 @@ by the Bee Gees
 
 #### Touch and Understand Love
 by Maurice Gibb
+I composed some harmonies and added them.
 
 #### Soldier Johnny
 by Maurice Gibb
+I composed some harmonies and added them.
 
 #### Silly Little Girl
 by Maurice Gibb
+I composed some harmonies and added them.
 
 #### Halcyon Days
 by Bruce Hornsby
+I composed some harmonies and added them.
 
 #### The Hud Sleeps
 by Carter Burwell, from The Hudsucker Proxy
@@ -506,3 +513,21 @@ by the Bee Gees
 
 #### Untitled
 by Les Stroud, from Survivorman
+
+#### The Girl to Share Each Day
+by Robin Gibb
+
+####I'm With You
+by Avril Lavigne
+
+####The Good Life
+by Bruce Hornsby
+
+####How Old Are You?
+by Robin Gibb
+
+####One Bad Thing
+by Barry Gibb
+
+####Distant Strangers/Change
+by Barry Gibb
