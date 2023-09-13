@@ -3,6 +3,9 @@
 ## 34°N, 12°E (Mad Space) <from Sonic Adventure 2>
 35% complete
 
+## Amy's Theme - Flying Carpet ~ Back to Soul <from Sonic: The Fighters>
+**COMPLETE**
+
 ## Green Hill Zone <from Sonic Chronicles: The Lost Brotherhood>
 **COMPLETE**
 
