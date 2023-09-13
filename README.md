@@ -14,9 +14,8 @@ by Jason Shaw
 From Mixcraft's song kits
 
 ### Trance Chill Out
-95% complete
+**COMPLETE**
 From Mixcraft's song kits
-TODO: Improve bass
 
 ### Urban Chill Out
 **COMPLETE**
