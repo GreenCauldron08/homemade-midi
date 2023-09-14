@@ -378,6 +378,10 @@ Piano intro only.
 
 ### Bad Ending <from Sonic 3D Blast (Saturn)>
 
+### Space Encounter <from Sonic Shuffle>
+
+### From Birth <from Sonic Shuffle>
+
 ### Sunset Hill - Act 1 <from Sonic Advance 3>
 
 ### That's the Way I Like It <from Sonic Adventure 2>
@@ -393,6 +397,8 @@ Contains some original material.
 
 ### Super Sonic Racing <from Sonic R>
 Contains some original material.
+
+### Boss Battle <from Sonic 3D Blast (Saturn)>
 
 ### Dark Gaia Appears <from Sonic Unleashed>
 
