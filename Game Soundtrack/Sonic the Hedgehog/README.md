@@ -16,8 +16,7 @@
 50% complete
 
 ## The Base <from Sonic Adventure 2>
-90% complete
-TODO: outro percussion
+**COMPLETE**
 
 ## What U Need <from Sonic Rush>
 **COMPLETE**
