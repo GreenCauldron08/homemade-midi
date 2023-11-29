@@ -517,17 +517,47 @@ by Les Stroud, from Survivorman
 #### The Girl to Share Each Day
 by Robin Gibb
 
-####I'm With You
+#### I'm With You
 by Avril Lavigne
 
-####The Good Life
+#### The Good Life
 by Bruce Hornsby
 
-####How Old Are You?
+#### How Old Are You?
 by Robin Gibb
 
-####One Bad Thing
+#### One Bad Thing
 by Barry Gibb
 
-####Distant Strangers/Change
+#### Distant Strangers/Change
 by Barry Gibb
+
+#### Brood War Aria
+from StarCraft: Brood War
+
+#### Country Lanes
+by the Bee Gees
+
+#### Prologue
+from Joseph and the Amazing Technicolor Dream Coat
+
+#### Any Dream Will Do
+from Joseph and the Amazing Technicolor Dream Coat
+
+#### Main Theme
+from Joseph and the Amazing Technicolor Dream Coat
+
+#### Jacob and Sons
+from Joseph and the Amazing Technicolor Dream Coat
+
+#### Joseph's Coat
+from Joseph and the Amazing Technicolor Dream Coat
+
+#### Joseph's Dreams
+from Joseph and the Amazing Technicolor Dream Coat
+
+#### Poor, Poor Pharaoh
+from Joseph and the Amazing Technicolor Dream Coat
+
+#### Potiphar
+from Joseph and the Amazing Technicolor Dream Coat
