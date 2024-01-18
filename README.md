@@ -561,3 +561,16 @@ from Joseph and the Amazing Technicolor Dream Coat
 
 #### Potiphar
 from Joseph and the Amazing Technicolor Dream Coat
+
+#### Go, Go, Go Joseph
+from Joseph and the Amazing Technicolor Dream Coat
+
+#### Meet Pharaoh
+from Joseph and the Amazing Technicolor Dream Coat
+
+#### Pharaoh's Number Two
+from Joseph and the Amazing Technicolor Dream Coat
+
+#### The Brothers Come to Egypt
+from Joseph and the Amazing Technicolor Dream Coat
+
