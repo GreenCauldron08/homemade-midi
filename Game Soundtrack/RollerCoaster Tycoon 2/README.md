@@ -2,7 +2,7 @@
 Originals by Allister Brimble
 
 ## Fairground Organ style
-Several (perhaps all, someday?) Fairground organ tracks in one file. It's coming along, I guess.
+Several Fairground organ tracks in one file. It doesn't have everything, but I'm satisfied with it for now.
 
 ## Medieval style
 **COMPLETE**
