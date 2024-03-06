@@ -28,7 +28,7 @@
 5% complete
 
 ## Edge of the Universe
-70% complete
+75% complete
 
 ## Shine, Shine
 2% complete
