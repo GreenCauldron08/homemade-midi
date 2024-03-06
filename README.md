@@ -574,3 +574,18 @@ from Joseph and the Amazing Technicolor Dream Coat
 #### The Brothers Come to Egypt
 from Joseph and the Amazing Technicolor Dream Coat
 
+#### Jacob in Egypt
+from Joseph and the Amazing Technicolor Dream Coat
+
+#### Stoned
+by Dido
+
+#### Underneath the Tree
+by Kelly Clarkson
+
+#### Strange Things
+by Randy Newman, from Toy Story
+
+#### Our House
+by Madness
+I took some creative liberties near the end
