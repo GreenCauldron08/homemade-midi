@@ -62,7 +62,7 @@ Music from the Barbarossa campaign, all in one file.
 TODO: Percussion
 
 ## Voodoodoodoo
-75% complete
+**COMPLETE**
 
 ## Carne y Helado
 **COMPLETE**
