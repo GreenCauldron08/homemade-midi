@@ -15,6 +15,10 @@ From the climax of the episode "Booby Trap"
 A collection of pieces by Ron Jones
 From Star Trek: The Next Generation
 
+## Sonic Underground
+Theme Song from Sonic Underground
+Requested by Xzerixan
+
 ## Pokemon Untitled Theme
 A personalized re-creation.
 From Pokémon
