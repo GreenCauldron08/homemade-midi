@@ -6,7 +6,7 @@ By George Bruns
 From Robin Hood (1973 film)
 
 ## Maneuvres
-70% complete
+(DISCONTINUED - the finished version is now part of "Ron Jones TNG Engineered")
 By Ron Jones
 From Star Trek: The Next Generation
 From the climax of the episode "Booby Trap"
@@ -26,6 +26,12 @@ From Pokémon
 ## Mystery Girl Again (Labyrinth)
 10% complete
 From Pokémon Heroes: Latios and Latias
+
+## Dawn's Early Night
+An untitled piece from Pokémon. Heard in the episode "Dawn's Early Night".
+
+## Dawn's Early Night (No Sus)
+Same as above, but this version doesn't use the sustain pedal.
 
 ## Great Air Battle
 60% complete
