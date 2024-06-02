@@ -39,7 +39,7 @@ The 1st track
 80% complete
 
 ## Avalanche <by Dave Cowen>
-65% complete
+**COMPLETE**
 Main menu and in-game music
 
 ## Tiny Castle <by Dave Cowen>
