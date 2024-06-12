@@ -40,5 +40,8 @@ TODO: Some kind of filler instrument
 I'm only doing the first 5 minutes of the original, which is over 8 minutes long.
 I think it might've been an instrumental demo of "Chain Reaction".
 
+## Embrace
+40% complete
+
 ## The Extra Mile
 50% complete
