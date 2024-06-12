@@ -8,9 +8,8 @@ These are all based on the original version of the game.
 **COMPLETE**
 
 ## Machina Del Diablo
-85% complete
-TODO: Pitch Bend on the Bass
-TODO: Pitch Bend on the Koto
+**COMPLETE**
+Note: I didn't bother with pitch bend
 
 ## T Station
 35% complete
