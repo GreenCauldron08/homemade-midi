@@ -1,5 +1,15 @@
 # Miscellaneous Game Music
 
+## Gun-Nac Area 2
+From Gun-Nac
+Composed by Toshiaki Sakoda
+Requested by ScaleyFoxy
+
+## Gun-Nac Area 4
+From Gun-Nac
+Composed by Toshiaki Sakoda
+Requested by ScaleyFoxy
+
 ## Terran4
 15% complete
 From StarCraft: Brood War
