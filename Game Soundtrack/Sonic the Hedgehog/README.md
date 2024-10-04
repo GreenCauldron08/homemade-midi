@@ -188,6 +188,7 @@ Drums only.
 ### Unused (Sound Test 10) <from Sonic the Hedgehog 2>
 
 ### Can You Feel the Sunshine? <from Sonic R>
+Contains some original material.
 
 ### Work It Out (Red Raw Mix) <from Sonic R>
 Drums only.
