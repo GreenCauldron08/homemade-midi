@@ -27,6 +27,9 @@ From Pokémon
 10% complete
 From Pokémon Heroes: Latios and Latias
 
+## Chicken Little Tries to Explain - Part 1
+From Chicken Little
+
 ## Lay Low
 From Chicken Little
 
