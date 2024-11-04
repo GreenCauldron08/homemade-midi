@@ -5,12 +5,6 @@ A very simplified re-creation.
 By George Bruns
 From Robin Hood (1973 film)
 
-## Maneuvres
-(DISCONTINUED - the finished version is now part of "Ron Jones TNG Engineered")
-By Ron Jones
-From Star Trek: The Next Generation
-From the climax of the episode "Booby Trap"
-
 ## Ron Jones TNG Engineered
 A collection of pieces by Ron Jones
 From Star Trek: The Next Generation
