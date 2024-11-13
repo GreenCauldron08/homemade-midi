@@ -48,6 +48,16 @@ Main menu and in-game music
 ## Temple Glider <by Dave Cowen>
 **COMPLETE**
 
+## Super Treadmill Main Menu <by Dave Cowen>
+**COMPLETE**
+
+## Super Treadmill <by Dave Cowen>
+**COMPLETE**
+
+## The Bucket <by Dave Cowen>
+**COMPLETE**
+Main menu and slightly shortened in-game music
+
 ## Colourblind <by Dave Cowen>
 **COMPLETE**
 
