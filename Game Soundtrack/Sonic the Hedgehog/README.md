@@ -1,15 +1,15 @@
 # Sonic the Hedgehog Music
 
-## 34°N, 12°E (Mad Space) <from Sonic Adventure 2>
-35% complete
+## Volcanic Tunnel <From Tails Sky Patrol>
+**COMPLETE**
+
+## Coco Island <From Tails Sky Patrol>
+**COMPLETE**
+
+## Lake Rocky <From Tails Sky Patrol>
+**COMPLETE**
 
 ## Amy's Theme - Flying Carpet ~ Back to Soul <from Sonic: The Fighters>
-**COMPLETE**
-
-## Green Hill Zone <from Sonic Chronicles: The Lost Brotherhood>
-**COMPLETE**
-
-## Minigame 3 <from Sonic Battle>
 **COMPLETE**
 
 ## Strategy <from Sonic Adventure 2>
@@ -18,7 +18,16 @@
 ## The Base <from Sonic Adventure 2>
 **COMPLETE**
 
+## 34°N, 12°E (Mad Space) <from Sonic Adventure 2>
+35% complete
+
+## Minigame 3 <from Sonic Battle>
+**COMPLETE**
+
 ## What U Need <from Sonic Rush>
+**COMPLETE**
+
+## Green Hill Zone <from Sonic Chronicles: The Lost Brotherhood>
 **COMPLETE**
 
 ## Inspirations for He Is My Master
