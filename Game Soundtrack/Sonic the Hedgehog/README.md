@@ -1,5 +1,29 @@
 # Sonic the Hedgehog Music
 
+## Options (Sonic 2) <from Sonic the Hedgehog 2>
+**COMPLETE**
+
+## Crystal Egg Zone <from Sonic the Hedgehog 2 (Handheld)>
+**COMPLETE**
+
+## Trap Tower <from SegaSonic the Hedgehog>
+**COMPLETE**
+
+## Chaos Emerald <from Sonic Spinball>
+**COMPLETE**
+
+## Carnival Night Zone - Act 1 <from Sonic the Hedgehog 3>
+**COMPLETE**
+
+## Carnival Night Zone - Act 2 <from Sonic the Hedgehog 3>
+**COMPLETE**
+
+## Rocket Shoes <from Sonic the Hedgehog: Triple Trouble
+**COMPLETE**
+
+## Metal Island Area <from Tails Adventure>
+**COMPLETE**
+
 ## Volcanic Tunnel <From Tails Sky Patrol>
 **COMPLETE**
 
@@ -10,6 +34,18 @@
 **COMPLETE**
 
 ## Amy's Theme - Flying Carpet ~ Back to Soul <from Sonic: The Fighters>
+**COMPLETE**
+
+## Boss Battle (Sonic 3D Blast (Saturn))
+**COMPLETE**
+
+## Continue Screen <from Sonic Blast>
+**COMPLETE**
+
+## Quick Advance (No Intro) <from Sonic Shuffle>
+**COMPLETE**
+
+## From Birth (No Intro) <from Sonic Shuffle>
 **COMPLETE**
 
 ## Strategy <from Sonic Adventure 2>
@@ -24,10 +60,25 @@
 ## Minigame 3 <from Sonic Battle>
 **COMPLETE**
 
+## Ending A (Alternate) <from Sonic Advance 3>
+**COMPLETE**
+
 ## What U Need <from Sonic Rush>
 **COMPLETE**
 
-## Green Hill Zone <from Sonic Chronicles: The Lost Brotherhood>
+## Raisin' Me Up <from Sonic Rush>
+**COMPLETE**
+
+## Professor's Fault <from Shadow the Hedgehog>
+**COMPLETE**
+
+## Miss You <from Sonic and the Secret Rings>
+**COMPLETE**
+
+## Violin Higher's Class
+**COMPLETE**
+
+## Green Hill Zone <from Sonic Chronicles: The Dark Brotherhood>
 **COMPLETE**
 
 ## Inspirations for He Is My Master
