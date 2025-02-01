@@ -21,21 +21,6 @@ From Pokémon
 10% complete
 From Pokémon Heroes: Latios and Latias
 
-## Chicken Little Tries to Explain
-From Chicken Little
-
-## Lay Low
-From Chicken Little
-
-## Dodgeball (Part 2)
-From Chicken Little
-
-## Spacecraft Escape (Unpolished)
-Simple version of the track from Chicken Little
-
-## Cornfield Chase WIP
-Simple version of the track from Chicken Little
-
 ## Dawn's Early Night
 An untitled piece from Pokémon. Heard in the episode "Dawn's Early Night".
 
