@@ -32,6 +32,16 @@ A collection of pieces from Star Trek: The Next Generation, Deep Space Nine, and
 
 ### The Siege of AR-558 <by Paul Baillargeon>
 
+### Night <by Jay Chattaway>
+
+### Rules of Acquisition <by Dennis McCarthy>
+
+### Chrysalis <by Jay Chattaway>
+
+### Concerning Flight <by Dennis McCarthy>
+
+### Profit and Lace <by David Bell>
+
 ## Sonic Underground
 Theme Song from Sonic Underground
 Requested by Xzerixan
