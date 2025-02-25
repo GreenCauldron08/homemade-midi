@@ -42,6 +42,12 @@ A collection of pieces from Star Trek: The Next Generation, Deep Space Nine, and
 
 ### Profit and Lace <by David Bell>
 
+### Take Me Out to the Holosuite <by David Bell>
+
+### Image in the Sand <by Dennis McCarthy>
+
+### Bride of Chaotica! <by David Bell>
+
 ## Sonic Underground
 Theme Song from Sonic Underground
 Requested by Xzerixan
