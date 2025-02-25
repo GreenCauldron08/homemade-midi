@@ -48,6 +48,8 @@ A collection of pieces from Star Trek: The Next Generation, Deep Space Nine, and
 
 ### Bride of Chaotica! <by David Bell>
 
+### The Visitor <by Dennis McCarthy>
+
 ## Sonic Underground
 Theme Song from Sonic Underground
 Requested by Xzerixan
