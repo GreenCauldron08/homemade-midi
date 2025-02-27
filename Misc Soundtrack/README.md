@@ -50,6 +50,10 @@ A collection of pieces from Star Trek: The Next Generation, Deep Space Nine, and
 
 ### The Visitor <by Dennis McCarthy>
 
+### Rise <by Jay Chattaway>
+
+### One Little Ship <by Jay Chattaway>
+
 ## Sonic Underground
 Theme Song from Sonic Underground
 Requested by Xzerixan
