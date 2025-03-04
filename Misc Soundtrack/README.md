@@ -8,6 +8,69 @@ From Robin Hood (1973 film)
 ## Ron Jones TNG Engineered
 A collection of pieces by Ron Jones
 From Star Trek: The Next Generation
+Episodes featured are:
+
+### The Naked Now
+
+### Where No One has Gone Before
+
+### The Battle
+
+### Datalore
+
+### When the Bough Breaks
+
+### Heart of Glory
+
+### Skin of Evil
+
+### We'll Always Have Paris
+
+### The Neutral Zone
+
+### Where Silence Has Lease
+
+### The Outrageous Okona
+
+### Loud as a Whisper
+
+### Q Who
+
+### The Emissary
+
+### Evolution
+
+### Who Watches the Watchers
+
+### Booby Trap
+
+### The Price
+
+### The Defector
+
+### A Matter of Perspective
+
+### The Offspring
+
+### Ménage à Troi
+
+### The Best of Both Worlds
+
+### The Best of Both Worlds, Part II
+
+### Brothers
+
+### Reunion
+
+### Final Mission
+
+### Data's Day
+
+### Devil's Due
+
+### Night Terrors
+
+### The Nth Degree
 
 ## Star Trek Non Ron
 A collection of pieces from Star Trek: The Next Generation, Deep Space Nine, and Voyager. Episodes and composers featured are:
