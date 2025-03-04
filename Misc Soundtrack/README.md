@@ -54,6 +54,8 @@ A collection of pieces from Star Trek: The Next Generation, Deep Space Nine, and
 
 ### One Little Ship <by Jay Chattaway>
 
+### Heroes and Demons <by Dennis McCarthy>
+
 ## Sonic Underground
 Theme Song from Sonic Underground
 Requested by Xzerixan
