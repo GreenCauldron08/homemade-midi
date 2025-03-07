@@ -119,6 +119,10 @@ A collection of pieces from Star Trek: The Next Generation, Deep Space Nine, and
 
 ### Heroes and Demons <by Dennis McCarthy>
 
+### Dark Page <by Jay Chattaway>
+
+### Blink of an Eye <by Paul Baillargeon>
+
 ## Sonic Underground
 Theme Song from Sonic Underground
 Requested by Xzerixan
