@@ -123,6 +123,8 @@ A collection of pieces from Star Trek: The Next Generation, Deep Space Nine, and
 
 ### Blink of an Eye <by Paul Baillargeon>
 
+### Badda Bing, Badda Bang <by Jay Chattaway>
+
 ## Sonic Underground
 Theme Song from Sonic Underground
 Requested by Xzerixan
