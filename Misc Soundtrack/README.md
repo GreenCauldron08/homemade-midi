@@ -125,6 +125,8 @@ A collection of pieces from Star Trek: The Next Generation, Deep Space Nine, and
 
 ### Badda Bing, Badda Bang <by Jay Chattaway>
 
+### Our Man Bashir <by Jay Chattaway>
+
 ## Sonic Underground
 Theme Song from Sonic Underground
 Requested by Xzerixan
