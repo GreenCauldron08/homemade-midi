@@ -127,6 +127,10 @@ A collection of pieces from Star Trek: The Next Generation, Deep Space Nine, and
 
 ### Our Man Bashir <by Jay Chattaway>
 
+### Masks <by Dennis McCarthy>
+
+### Force of Nature <by Dennis McCarthy>
+
 ## Sonic Underground
 Theme Song from Sonic Underground
 Requested by Xzerixan
