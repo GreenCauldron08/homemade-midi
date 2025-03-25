@@ -137,6 +137,8 @@ A collection of pieces from Star Trek: The Next Generation, Deep Space Nine, and
 
 ### The Thaw <by David Bell>
 
+### Spirit Folk <by Jay Chattaway>
+
 ## Sonic Underground
 Theme Song from Sonic Underground
 Requested by Xzerixan
