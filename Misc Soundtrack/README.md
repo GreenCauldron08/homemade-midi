@@ -139,6 +139,18 @@ A collection of pieces from Star Trek: The Next Generation, Deep Space Nine, and
 
 ### Spirit Folk <by Jay Chattaway>
 
+### Macrocosm <by Dennis McCarthy>
+
+### Birthright, Part 1 <by Jay Chattaway>
+
+### Homestead <by David Bell>
+
+### Extreme Measures <by Dennis McCarthy>
+
+### Endgame <by Jay Chattaway>
+
+### What You Leave Behind <by Dennis McCarthy>
+
 ## Sonic Underground
 Theme Song from Sonic Underground
 Requested by Xzerixan
