@@ -25,7 +25,7 @@
 70% complete
 
 ## Saw a New Morning
-15% complete
+20% complete
 
 ## Edge of the Universe
 75% complete
