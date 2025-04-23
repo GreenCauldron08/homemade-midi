@@ -13,6 +13,10 @@ by Jason Shaw
 **COMPLETE**
 From Mixcraft's song kits
 
+### Brazilian Lounge Samba
+60% complete
+From Mixcraft's song kits
+
 ### Trance Chill Out
 **COMPLETE**
 From Mixcraft's song kits
