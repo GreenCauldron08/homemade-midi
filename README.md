@@ -535,6 +535,7 @@ by Barry Gibb
 
 #### Distant Strangers/Change
 by Barry Gibb
+I composed some harmonies and added them.
 
 #### Brood War Aria
 from StarCraft: Brood War
@@ -583,9 +584,11 @@ from Joseph and the Amazing Technicolor Dream Coat
 
 #### Stoned
 by Dido
+I composed some harmonies and added them.
 
 #### Underneath the Tree
 by Kelly Clarkson
+I composed some harmonies and added them.
 
 #### Strange Things
 by Randy Newman, from Toy Story
@@ -593,3 +596,32 @@ by Randy Newman, from Toy Story
 #### Our House
 by Madness
 I took some creative liberties near the end
+
+### Engineer08
+
+#### Sincere Relation
+by the Bee Gees
+
+#### Shopping
+by the Barenaked Ladies
+
+#### All of my Life
+by the Bee Gees
+I composed some harmonies and added them.
+
+#### Little Bird
+by Annie Lennox
+I composed some harmonies and added them.
+
+#### The Bridge
+by Maurice Gibb
+I composed some harmonies and added them.
+
+#### Promise the Earth
+by the Bee Gees
+
+#### Play Down
+by the Bee Gees
+
+#### So Far Away
+by the Dire Straits
